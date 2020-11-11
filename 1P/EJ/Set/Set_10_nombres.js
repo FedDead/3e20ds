@@ -1,0 +1,12 @@
+let set = new Set();
+set.add('Francisco');
+set.add('Pepe');
+set.add('Luis');
+set.add('Jose');
+set.add('Lalo');
+set.add('Lucy');
+set.add('Joel');
+set.add('Rocio');
+set.add('Javi');
+set.add('Miranda');
+console.log(set);
