@@ -25,4 +25,8 @@ if(day<0){
     console.log("El dia hace 11 dias es "+day+" "+diasemana);
 }
 else
+<<<<<<< Updated upstream
 console.log("El dia hace 11 dias es "+day+" "+diasemana);
+=======
+console.log("El dia hace 11 dias es "+day+" "+diasemana);
+>>>>>>> Stashed changes
