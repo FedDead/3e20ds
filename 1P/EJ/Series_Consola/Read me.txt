@@ -1,0 +1,3 @@
+Profesor estos programas no le funcionaran en el chrome, yo los hice para la consola de node.js
+le comento porque usted dijo que si lo habiamos hecho para consola no le cambiaramos para chrome
+si no que asi le dejaramos
