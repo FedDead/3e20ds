@@ -39,4 +39,4 @@ function validar(num){
 }
 
 let num = validar(Number(prompt("Escribe el numero que deseas conocer el factorial: ")));
-console.log("El factorial de " + fact(5));
+console.log("El factorial de " + fact(num));
